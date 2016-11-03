@@ -1,0 +1,781 @@
+,item,component,quantity
+0,Plastic bowl,Plastic,2.0
+1,Camera,Gears,2.0
+2,Camera,Spring,2.0
+3,Camera,Crystal,2.0
+4,Clean broom,Wood,2.0
+5,Clean broom,Plastic,1.0
+6,Skull eye socket,Bone,2.0
+7,Tray,Aluminum,1.0
+8,Glass rounded vase,Glass,2.0
+9,Tall flask,Glass,1.0
+10,Saucer,Ceramic,1.0
+11,Blood sac,Antiseptic,2.0
+12,Blood sac,Fiberglass,1.0
+13,Reporter's pencil,Lead,1.0
+14,Reporter's pencil,Wood,1.0
+15,Empty can,Steel,1.0
+16,Basketball,Rubber,3.0
+17,Synth component,Plastic,1.0
+18,Wakemaster alarm clock,Aluminum,2.0
+19,Wakemaster alarm clock,Glass,2.0
+20,Wakemaster alarm clock,Spring,2.0
+21,Wakemaster alarm clock,Nuclear material,2.0
+22,New floral vaulted vase,Ceramic,2.0
+23,Lumberjack saw,Steel,3.0
+24,Lumberjack saw,Wood,1.0
+25,Plate,Steel,1.0
+26,Teacup,Ceramic,2.0
+27,Plunger,Rubber,2.0
+28,Plunger,Wood,1.0
+29,Flight data recorder,Circuitry,1.0
+30,Flight data recorder,Fiber optics,2.0
+31,Flight data recorder,Copper,1.0
+32,Reporter's pen,Plastic,1.0
+33,Broken femur,Bone,2.0
+34,Silver bowl,Silver,2.0
+35,Rolled Boston Bugle,Cloth,1.0
+36,Clean dog bowl,Plastic,2.0
+37,Duct tape,Adhesive,1.0
+38,Duct tape,Cloth,1.0
+39,Antique pocket watch,Gears,2.0
+40,Antique pocket watch,Silver,2.0
+41,Antique pocket watch,Spring,1.0
+42,Cake pan,Aluminum,3.0
+43,5lb weight,Lead,2.0
+44,Late edition newspaper,Cloth,2.0
+45,Large plate,Ceramic,3.0
+46,Gwinnett ale bottle,Glass,2.0
+47,Radstag hide,Leather,4.0
+48,Silver locket,Silver,2.0
+49,Annika's locket,Silver,2.0
+50,Salt shaker,Plastic,1.0
+51,Blowtorch,Steel,2.0
+52,Blowtorch,Oil,1.0
+53,Clean salt shaker,Plastic,1.0
+54,Bourbon bottle,Glass,4.0
+55,Beer bottle,Glass,2.0
+56,Cigarette,Cloth,1.0
+57,ProSnap camera,Gears,4.0
+58,ProSnap camera,Spring,4.0
+59,ProSnap camera,Crystal,4.0
+60,Frying pan,Steel,2.0
+61,Empty floral flared vase,Ceramic,2.0
+62,Chalk,Asbestos,2.0
+63,Blue paint,Oil,2.0
+64,Blue paint,Steel,2.0
+65,Covered sauce pan,Steel,2.0
+66,Glass vaulted vase,Glass,2.0
+67,Cooking oil,Plastic,1.0
+68,Cooking oil,Oil,3.0
+69,Gwinnett brew bottle,Glass,2.0
+70,Flip lighter,Oil,1.0
+71,Flip lighter,Spring,1.0
+72,Flip lighter,Steel,1.0
+73,Left leg bones,Bone,3.0
+74,Tongs,Steel,2.0
+75,Tongs,Screw,1.0
+76,Rum bottle,Glass,4.0
+77,Bandage scissors,Steel,1.0
+78,New teal flared vase,Ceramic,2.0
+79,Giddyup Buttercup,Gears,3.0
+80,Giddyup Buttercup,Steel,5.0
+81,Giddyup Buttercup,Spring,4.0
+82,Giddyup Buttercup,Screw,4.0
+83,Three ball,Plastic,2.0
+84,Fishing rod,Gears,2.0
+85,Fishing rod,Spring,1.0
+86,Fishing rod,Wood,1.0
+87,Oven mitt,Asbestos,1.0
+88,Oven mitt,Cloth,2.0
+89,Toothpaste,Plastic,1.0
+90,Toothpaste,Antiseptic,2.0
+91,Clean drinking glass,Glass,1.0
+92,Thin beaker,Glass,1.0
+93,Office desk fan,Gears,2.0
+94,Office desk fan,Screw,2.0
+95,Office desk fan,Steel,2.0
+96,Wine bottle,Glass,4.0
+97,Glass rounded teal vase,Glass,2.0
+98,Charge card,Plastic,1.0
+99,Lantern,Glass,2.0
+100,Lantern,Oil,2.0
+101,Lantern,Steel,3.0
+102,Whiskey bottle,Glass,4.0
+103,Sensor module,Steel,1.0
+104,Sensor module,Circuitry,5.0
+105,Sensor module,Copper,2.0
+106,Pepper mill,Screw,1.0
+107,Pepper mill,Plastic,1.0
+108,Blacksmith hammer,Steel,2.0
+109,Blacksmith hammer,Wood,1.0
+110,Deflated kickball,Rubber,3.0
+111,Wooden spoon,Wood,2.0
+112,Capless skull,Bone,1.0
+113,Coolant,Acid,2.0
+114,Coolant,Plastic,1.0
+115,Beaker,Glass,1.0
+116,Ashtray,Ceramic,1.0
+117,Research test tube,Glass,1.0
+118,Small sauce pan,Steel,1.0
+119,Cutting fluid,Oil,3.0
+120,Cutting fluid,Steel,1.0
+121,League bowling pin,Plastic,2.0
+122,League bowling pin,Wood,2.0
+123,Brahmin hide,Leather,4.0
+124,Skull,Bone,3.0
+125,Undamaged Abraxo cleaner,Acid,1.0
+126,Undamaged Abraxo cleaner,Antiseptic,2.0
+127,Undamaged Abraxo cleaner,Fiberglass,1.0
+128,Spatula,Rubber,1.0
+129,Spatula,Steel,1.0
+130,New power cables,Copper,2.0
+131,New power cables,Steel,3.0
+132,Pre-War Money,Cloth,1.0
+133,Teal bud vase,Ceramic,2.0
+134,Willow barrel vase,Ceramic,2.0
+135,10lb weight,Lead,3.0
+136,Ceramic bowl,Ceramic,2.0
+137,80lb curlbar,Lead,20.0
+138,Shadeless table lamp,Copper,1.0
+139,Shadeless table lamp,Glass,2.0
+140,Straw pillow,Cloth,2.0
+141,Cafeteria tray,Plastic,2.0
+142,Wooden block - B & Y,Wood,1.0
+143,Cooking pan,Steel,2.0
+144,New teal vaulted vase,Ceramic,2.0
+145,Brotherhood of Steel holotag,Steel,1.0
+146,Blast Radius board game,Wood,2.0
+147,Blast Radius board game,Nuclear material,1.0
+148,Desk fan,Gears,2.0
+149,Desk fan,Screw,2.0
+150,Desk fan,Steel,2.0
+151,Empty teal barrel vase,Ceramic,2.0
+152,Telephone,Circuitry,2.0
+153,Telephone,Copper,1.0
+154,Telephone,Fiberglass,2.0
+155,Empty willow vaulted vase,Ceramic,2.0
+156,Rat poison,Steel,1.0
+157,Rat poison,Asbestos,1.0
+158,Rat poison,Fiberglass,2.0
+159,Deathclaw hand,Bone,2.0
+160,Deathclaw hand,Leather,2.0
+161,Tea kettle,Steel,2.0
+162,Test tube rack,Wood,2.0
+163,Bread box,Plastic,3.0
+164,Shadeless lamp,Copper,1.0
+165,Shadeless lamp,Glass,2.0
+166,New willow vaulted vase,Ceramic,2.0
+167,Undamaged American flag,Wood,2.0
+168,Undamaged American flag,Cloth,2.0
+169,Tweezers,Aluminum,1.0
+170,Glass bud vase,Glass,2.0
+171,Right hand bones,Bone,2.0
+172,Silver hairbrush,Plastic,1.0
+173,Silver hairbrush,Silver,2.0
+174,Shopping basket,Plastic,1.0
+175,Shopping basket,Steel,3.0
+176,Mr. Handy fuel,Steel,3.0
+177,Mr. Handy fuel,Oil,2.0
+178,Wooden block - N & S,Wood,1.0
+179,Mole rat hide,Leather,1.0
+180,Dog tags,Steel,1.0
+181,Graduated cylinder,Glass,1.0
+182,Clean cake pan,Aluminum,2.0
+183,Shot glass,Glass,1.0
+184,Willow flared vase,Ceramic,2.0
+185,160lb dumbbell,Lead,40.0
+186,Toy truck,Steel,2.0
+187,Toy truck,Screw,1.0
+188,Empty teal vaulted vase,Ceramic,2.0
+189,Teddy bear,Leather,1.0
+190,Teddy bear,Cloth,3.0
+191,Ten ball,Plastic,2.0
+192,Surgical tray,Aluminum,3.0
+193,Scalpel,Steel,1.0
+194,Broom,Plastic,1.0
+195,Broom,Wood,2.0
+196,Glass vaulted teal vase,Glass,2.0
+197,Silver table knife,Silver,1.0
+198,Light bulb,Copper,1.0
+199,Light bulb,Glass,1.0
+200,Colonial vase,Ceramic,2.0
+201,Feather duster,Plastic,2.0
+202,Feather duster,Cloth,1.0
+203,Silver bar,Silver,10.0
+204,Life preserver,Plastic,3.0
+205,Life preserver,Spring,1.0
+206,Broken light bulb,Copper,1.0
+207,Military-grade circuit board,Circuitry,5.0
+208,Giddyup Buttercup toy parts,Plastic,1.0
+209,Giddyup Buttercup toy parts,Spring,1.0
+210,Empty willow bud vase,Ceramic,2.0
+211,Toaster,Spring,2.0
+212,Toaster,Steel,2.0
+213,Enhanced targeting card,Plastic,1.0
+214,Enhanced targeting card,Silver,1.0
+215,Enhanced targeting card,Circuitry,2.0
+216,Cat bowl,Plastic,2.0
+217,Right leg bones,Bone,3.0
+218,Mini nuke stabilizer fins,Screw,2.0
+219,Mini nuke stabilizer fins,Steel,3.0
+220,Copper bar,Copper,10.0
+221,Pen,Plastic,1.0
+222,Hoe,Steel,3.0
+223,Hoe,Wood,3.0
+224,Floral vaulted vase,Ceramic,2.0
+225,Teal barrel vase,Ceramic,2.0
+226,Mini nuke beryllium cap,Nuclear material,1.0
+227,Mini nuke beryllium cap,Steel,2.0
+228,Two ball,Plastic,2.0
+229,Vodka,Glass,4.0
+230,Lit cigar,Cloth,1.0
+231,Sweeper,Aluminum,3.0
+232,Sweeper,Circuitry,2.0
+233,Sweeper,Nuclear material,2.0
+234,Six ball,Plastic,2.0
+235,Distress pulser,Aluminum,2.0
+236,Distress pulser,Circuitry,1.0
+237,Distress pulser,Nuclear material,1.0
+238,Toy alien,Plastic,2.0
+239,Toy alien,Rubber,1.0
+240,Alarm clock,Aluminum,2.0
+241,Alarm clock,Glass,1.0
+242,Alarm clock,Nuclear material,1.0
+243,Alarm clock,Spring,1.0
+244,Cracked glass bowl,Glass,2.0
+245,Plastic plate,Plastic,2.0
+246,Baby rattle,Plastic,2.0
+247,Small plate,Ceramic,2.0
+248,Drinking glass,Glass,1.0
+249,Pack of duct tape,Adhesive,4.0
+250,Pack of duct tape,Cloth,2.0
+251,Empty floral barrel vase,Ceramic,2.0
+252,Skull fragment,Bone,2.0
+253,New floral barrel vase,Ceramic,2.0
+254,Liquor bottle,Glass,2.0
+255,Extinguisher,Asbestos,2.0
+256,Extinguisher,Rubber,2.0
+257,Extinguisher,Steel,4.0
+258,Bowling pin,Plastic,2.0
+259,Bowling pin,Wood,2.0
+260,Nuka-Cola bottle,Glass,2.0
+261,Wooden block - V & F,Wood,1.0
+262,New toy car,Screw,1.0
+263,New toy car,Wood,2.0
+264,Industrial oil canister,Aluminum,2.0
+265,Industrial oil canister,Oil,2.0
+266,Whiskey,Glass,4.0
+267,Collectible baseball,Cork,2.0
+268,Collectible baseball,Leather,1.0
+269,Yellow table lamp,Copper,1.0
+270,Yellow table lamp,Glass,2.0
+271,Restored desk fan,Steel,2.0
+272,Restored desk fan,Screw,2.0
+273,Restored desk fan,Gears,2.0
+274,Glass pitcher,Glass,3.0
+275,Coffee cup,Ceramic,1.0
+276,Toy car,Screw,1.0
+277,Toy car,Wood,2.0
+278,Broken lamp,Copper,1.0
+279,Broken lamp,Glass,2.0
+280,Picture frame,Wood,1.0
+281,Rib cage and spine,Bone,5.0
+282,Inactive distress pulser,Circuitry,1.0
+283,Inactive distress pulser,Nuclear material,1.0
+284,Inactive distress pulser,Aluminum,2.0
+285,Silver table spoon,Silver,1.0
+286,Dinner fork,Steel,1.0
+287,Left hand bones,Bone,2.0
+288,20lb dumbbell,Lead,9.0
+289,Dawnshire vase,Ceramic,2.0
+290,Gold watch,Gears,2.0
+291,Gold watch,Gold,2.0
+292,Gold watch,Spring,1.0
+293,Dirty ashtray,Ceramic,1.0
+294,Gold bar,Gold,10.0
+295,Clean red plate,Ceramic,2.0
+296,Small dinner plate,Ceramic,2.0
+297,Plastic fork,Plastic,1.0
+298,Eight ball,Plastic,2.0
+299,Floral flared vase,Ceramic,2.0
+300,Tabletop picture frame,Wood,2.0
+301,New willow flared vase,Ceramic,2.0
+302,Oil can,Oil,4.0
+303,Oil can,Aluminum,1.0
+304,Clipboard,Spring,2.0
+305,Clipboard,Wood,1.0
+306,New toy truck,Steel,2.0
+307,New toy truck,Screw,2.0
+308,Table knife,Steel,1.0
+309,Anti freeze bottle,Acid,2.0
+310,Anti freeze bottle,Plastic,2.0
+311,Seven ball,Plastic,2.0
+312,Ichor sac,Acid,2.0
+313,Ichor sac,Nuclear material,1.0
+314,Bunsen burner,Copper,1.0
+315,Bunsen burner,Steel,2.0
+316,Toy rocketship,Aluminum,1.0
+317,Toy rocketship,Plastic,2.0
+318,Wooden block - I & D,Wood,1.0
+319,Clean coffee cup,Ceramic,1.0
+320,Unused flip lighter,Oil,1.0
+321,Unused flip lighter,Spring,1.0
+322,Unused flip lighter,Steel,1.0
+323,Collander,Steel,1.0
+324,Metal bucket,Steel,2.0
+325,Teal flared vase,Ceramic,2.0
+326,Clean coffee tin,Aluminum,2.0
+327,Twelve ball,Plastic,2.0
+328,Applicator,Aluminum,1.0
+329,Applicator,Nuclear material,1.0
+330,HalluciGen gas canister,Steel,1.0
+331,Home plate,Plastic,2.0
+332,Home plate,Cloth,2.0
+333,Teapot,Ceramic,5.0
+334,Teapot,Asbestos,1.0
+335,Blue table lamp,Copper,2.0
+336,Blue table lamp,Glass,1.0
+337,Glass rounded red vase,Glass,2.0
+338,Knight Rylan's holotag,Steel,1.0
+339,Rib cage,Bone,5.0
+340,Globe,Screw,1.0
+341,Globe,Cork,2.0
+342,Globe,Plastic,2.0
+343,Battered clipboard,Spring,1.0
+344,Battered clipboard,Wood,1.0
+345,Fork,Steel,1.0
+346,Nine ball,Plastic,2.0
+347,Reporter's camera,Gears,2.0
+348,Reporter's camera,Spring,2.0
+349,Reporter's camera,Crystal,2.0
+350,Large serving plate,Ceramic,3.0
+351,New teal rounded vase,Ceramic,2.0
+352,Pencil,Lead,1.0
+353,Pencil,Wood,1.0
+354,Swan boat fragments,Fiberglass,5.0
+355,Swan boat fragments,Plastic,1.0
+356,Swan boat fragments,Steel,1.0
+357,Dishrag,Cloth,1.0
+358,Empty paint can,Steel,2.0
+359,New floral bud vase,Ceramic,2.0
+360,Lit cigarette,Cloth,1.0
+361,New teal bud vase,Ceramic,2.0
+362,Mop,Wood,2.0
+363,Mop,Cloth,2.0
+364,New floral rounded vase,Ceramic,2.0
+365,Bone cutter,Plastic,1.0
+366,Bone cutter,Gears,2.0
+367,Bone cutter,Copper,1.0
+368,Gwinnett lager bottle,Glass,2.0
+369,Hot plate,Circuitry,2.0
+370,Hot plate,Copper,1.0
+371,Hot plate,Screw,1.0
+372,Hammer,Wood,1.0
+373,Hammer,Steel,2.0
+374,Chemistry jar,Glass,1.0
+375,Gwinnett pale ale bottle,Glass,2.0
+376,Shovel,Steel,3.0
+377,Shovel,Wood,3.0
+378,Clean umbrella,Plastic,2.0
+379,Clean umbrella,Spring,2.0
+380,Test tube,Glass,1.0
+381,Tack hammer,Steel,1.0
+382,Tack hammer,Wood,1.0
+383,Youth League glove,Leather,3.0
+384,Locket,Silver,2.0
+385,Soap,Oil,1.0
+386,Eleven ball,Plastic,2.0
+387,Baseball,Cork,2.0
+388,Baseball,Leather,1.0
+389,40lb barbell,Lead,10.0
+390,Paintbrush,Wood,1.0
+391,Paintbrush,Cloth,1.0
+392,Spanner,Aluminum,1.0
+393,New willow bud vase,Ceramic,2.0
+394,Willow rounded vase,Ceramic,2.0
+395,Glass flared vase,Glass,2.0
+396,Fumigus blowtorch,Steel,3.0
+397,Fumigus blowtorch,Oil,3.0
+398,Undamaged cigarettes,Plastic,1.0
+399,Undamaged cigarettes,Cloth,4.0
+400,Undamaged cigarettes,Asbestos,2.0
+401,Empty willow rounded vase,Ceramic,2.0
+402,Bowl,Ceramic,2.0
+403,Classroom globe,Cork,2.0
+404,Classroom globe,Plastic,2.0
+405,Classroom globe,Screw,1.0
+406,Rack,Wood,2.0
+407,80lb barbell,Lead,20.0
+408,Cat remains,Ceramic,2.0
+409,Cat remains,Bone,2.0
+410,Fifteen ball,Plastic,2.0
+411,Abraxo cleaner industrial grade,Acid,2.0
+412,Abraxo cleaner industrial grade,Antiseptic,4.0
+413,Abraxo cleaner industrial grade,Fiberglass,2.0
+414,Fuse,Copper,1.0
+415,Fuse,Glass,1.0
+416,Stew pot,Steel,3.0
+417,Stew pot,Copper,1.0
+418,Empty blood pack,Plastic,1.0
+419,Typewriter,Gears,3.0
+420,Typewriter,Screw,2.0
+421,Typewriter,Spring,3.0
+422,Undamaged camera,Gears,2.0
+423,Undamaged camera,Spring,2.0
+424,Undamaged camera,Crystal,2.0
+425,Bonesaw,Rubber,1.0
+426,Bonesaw,Steel,2.0
+427,Clothing iron,Plastic,1.0
+428,Clothing iron,Steel,2.0
+429,Industrial size shortening,Oil,5.0
+430,Lab bottle,Glass,1.0
+431,Antique silver locket,Silver,2.0
+432,Used oil can,Steel,1.0
+433,Used oil can,Oil,1.0
+434,Wooden picture frame,Wood,2.0
+435,Injector,Aluminum,1.0
+436,Skull cap bone,Bone,2.0
+437,Empty blood sac,Antiseptic,1.0
+438,Ladle,Steel,2.0
+439,Sauce pan lid,Steel,1.0
+440,Vacuum tube,Copper,1.0
+441,Vacuum tube,Glass,2.0
+442,Yellow paint,Oil,2.0
+443,Yellow paint,Steel,2.0
+444,Baseball base,Cloth,2.0
+445,Baseball base,Plastic,2.0
+446,Glass flared teal vase,Glass,2.0
+447,Economy wonderglue,Adhesive,5.0
+448,Burgundy bottle,Glass,2.0
+449,Femur,Bone,1.0
+450,Wooden soldier toy,Ceramic,1.0
+451,Skull faceplate,Bone,2.0
+452,Sealed wonderglue,Adhesive,4.0
+453,Kickball,Rubber,3.0
+454,Boston Bugle,Cloth,1.0
+455,Empty teal flared vase,Ceramic,2.0
+456,Wrench,Steel,2.0
+457,Empty floral bud vase,Ceramic,2.0
+458,Bloatfly gland,Acid,2.0
+459,Condensed fog,Steel,3.0
+460,Condensed fog,Oil,1.0
+461,Plastic knife,Plastic,1.0
+462,Empty floral rounded vase,Ceramic,2.0
+463,New willow barrel vase,Ceramic,2.0
+464,Paint can,Oil,2.0
+465,Paint can,Steel,2.0
+466,Small serving plate,Ceramic,2.0
+467,Glass bowl,Glass,2.0
+468,Willow bud vase,Ceramic,2.0
+469,Rib cage and pelvis,Bone,3.0
+470,White bottle,Glass,2.0
+471,Biometric scanner,Asbestos,1.0
+472,Biometric scanner,Fiber optics,1.0
+473,Biometric scanner,Nuclear material,2.0
+474,Small baby bottle,Glass,2.0
+475,Small baby bottle,Rubber,1.0
+476,Fancy hairbrush,Plastic,1.0
+477,Fancy hairbrush,Silver,2.0
+478,Clean pepper mill,Plastic,1.0
+479,Clean pepper mill,Screw,1.0
+480,Thirteen ball,Plastic,2.0
+481,Spine,Bone,5.0
+482,Assaultron circuit board,Circuitry,5.0
+483,Assaultron circuit board,Silver,2.0
+484,Vase,Ceramic,3.0
+485,Suprathaw antifreeze,Acid,4.0
+486,Suprathaw antifreeze,Plastic,3.0
+487,Unused enamel bucket,Steel,2.0
+488,Radscorpion stinger,Nuclear material,2.0
+489,Coolant cap,Aluminum,2.0
+490,Dog bowl,Plastic,2.0
+491,Cutting board,Wood,2.0
+492,Willow vaulted vase,Ceramic,2.0
+493,Antique table knife,Steel,1.0
+494,Gwinnett stout bottle,Glass,2.0
+495,Sealed Boston Bugle,Cloth,1.0
+496,Clean white plate,Ceramic,2.0
+497,Blood can,Oil,2.0
+498,Blood can,Steel,2.0
+499,Abraxo cleaner,Acid,1.0
+500,Abraxo cleaner,Antiseptic,2.0
+501,Abraxo cleaner,Fiberglass,1.0
+502,Unused ashtray,Ceramic,2.0
+503,TV dinner tray,Aluminum,3.0
+504,Industrial solvent,Steel,3.0
+505,Industrial solvent,Antiseptic,4.0
+506,Fourteen ball,Plastic,2.0
+507,Dinner plate,Steel,1.0
+508,Youth League baseball,Cork,2.0
+509,Youth League baseball,Leather,1.0
+510,Glass barrel teal vase,Glass,2.0
+511,Gas canister,Steel,3.0
+512,Gas canister,Oil,1.0
+513,Gilded grasshopper,Copper,10.0
+514,Gilded grasshopper,Glass,2.0
+515,Gilded grasshopper,Gold,5.0
+516,Unscorched oven mitt,Asbestos,1.0
+517,Unscorched oven mitt,Cloth,2.0
+518,Jawless brahmin skull,Bone,4.0
+519,Military grade duct tape,Ballistic fiber,2.0
+520,Military grade duct tape,Adhesive,4.0
+521,Pre-War lamp,Copper,4.0
+522,Pre-War lamp,Glass,2.0
+523,Giddyup Buttercup body,Steel,2.0
+524,Giddyup Buttercup body,Spring,2.0
+525,Giddyup Buttercup body,Screw,2.0
+526,Shem Drowne's skull,Bone,2.0
+527,Aluminum oil can,Oil,2.0
+528,Aluminum oil can,Steel,1.0
+529,Right arm bones,Bone,3.0
+530,Five ball,Plastic,2.0
+531,Untarnished coffee pot,Plastic,1.0
+532,Untarnished coffee pot,Steel,2.0
+533,Untarnished coffee pot,Asbestos,1.0
+534,Brown bottle,Glass,2.0
+535,Aluminum tray,Steel,1.0
+536,Empty floral vaulted vase,Ceramic,2.0
+537,Teal rounded vase,Ceramic,2.0
+538,Antique globe,Cork,2.0
+539,Antique globe,Plastic,2.0
+540,Antique globe,Screw,1.0
+541,Giddyup Buttercup front leg,Gears,2.0
+542,Giddyup Buttercup front leg,Steel,1.0
+543,Giddyup Buttercup front leg,Spring,2.0
+544,Luxobrew coffee pot,Plastic,2.0
+545,Luxobrew coffee pot,Steel,3.0
+546,Luxobrew coffee pot,Asbestos,2.0
+547,Clothes hanger,Spring,2.0
+548,Clothes hanger,Wood,1.0
+549,Floral bud vase,Ceramic,2.0
+550,Empty teal bud vase,Ceramic,2.0
+551,Championship bowling ball,Plastic,7.0
+552,Giddyup Buttercup back leg,Spring,2.0
+553,Giddyup Buttercup back leg,Steel,1.0
+554,Giddyup Buttercup back leg,Gears,2.0
+555,Surgical scalpel,Steel,1.0
+556,Medical liquid nitrogen dispenser,Steel,2.0
+557,Red plate,Ceramic,2.0
+558,Amontillado bottle,Glass,4.0
+559,New teal barrel vase,Ceramic,2.0
+560,Hack saw,Steel,2.0
+561,Hack saw,Wood,1.0
+562,Screwdriver,Steel,2.0
+563,Screwdriver,Wood,1.0
+564,Garden gnome,Ceramic,3.0
+565,Tin can,Steel,2.0
+566,Scissors,Plastic,1.0
+567,Scissors,Steel,2.0
+568,Danse's holotags,Steel,1.0
+569,Unfilled kickball,Rubber,3.0
+570,Microscope,Gears,2.0
+571,Microscope,Glass,2.0
+572,Microscope,Crystal,2.0
+573,Microscope,Fiber optics,1.0
+574,Ball-peen hammer,Wood,1.0
+575,Ball-peen hammer,Steel,2.0
+576,Cracked deathclaw egg,Bone,2.0
+577,Cracked deathclaw egg,Acid,1.0
+578,Empty milk bottle,Glass,2.0
+579,Claw hammer,Steel,2.0
+580,Claw hammer,Wood,1.0
+581,Cigar box,Cloth,3.0
+582,Cigar box,Fiberglass,1.0
+583,Cigar box,Wood,2.0
+584,Mini nuke detonator shell,Nuclear material,2.0
+585,Mini nuke detonator shell,Steel,3.0
+586,Bowling ball,Plastic,7.0
+587,Anchorage veteran's flag,Cloth,4.0
+588,Anchorage veteran's flag,Wood,2.0
+589,Empty teal rounded vase,Ceramic,2.0
+590,Mole rat teeth,Bone,1.0
+591,Can,Steel,2.0
+592,25lb weight,Lead,5.0
+593,Human jaw,Bone,2.0
+594,Baby bottle,Glass,1.0
+595,Pelvis bones,Bone,3.0
+596,Vodka bottle,Glass,4.0
+597,Bourbon,Glass,4.0
+598,Yardstick,Wood,2.0
+599,Masonry hammer,Steel,2.0
+600,Masonry hammer,Wood,1.0
+601,Oil canister,Steel,2.0
+602,Oil canister,Oil,2.0
+603,Recorder,Aluminum,1.0
+604,Recorder,Nuclear material,1.0
+605,Recorder,Circuitry,1.0
+606,Recorder,Glass,1.0
+607,Glass barrel red vase,Glass,2.0
+608,Gear,Steel,1.0
+609,Glass bud red vase,Glass,2.0
+610,Trifold American flag,Wood,2.0
+611,Trifold American flag,Cloth,4.0
+612,Desktop picture frame,Wood,2.0
+613,Coffee pot,Plastic,1.0
+614,Coffee pot,Steel,2.0
+615,Coffee pot,Asbestos,1.0
+616,Umbrella,Spring,2.0
+617,Umbrella,Plastic,2.0
+618,Hide bundle,Leather,4.0
+619,Teal vaulted vase,Ceramic,2.0
+620,Beaker stand,Copper,1.0
+621,Plastic spoon,Plastic,1.0
+622,Untarnished metal bucket,Steel,2.0
+623,Derby-winning toy car,Screw,1.0
+624,Derby-winning toy car,Wood,2.0
+625,Power relay coil,Copper,2.0
+626,Power relay coil,Steel,2.0
+627,Bag of fertilizer,Acid,1.0
+628,Bag of fertilizer,Fertilizer,4.0
+629,Cigarette carton,Plastic,2.0
+630,Cigarette carton,Cloth,4.0
+631,Cigarette carton,Asbestos,2.0
+632,Table spoon,Steel,1.0
+633,Large baby bottle,Glass,2.0
+634,Large baby bottle,Rubber,1.0
+635,White plate,Ceramic,2.0
+636,Cauterizer,Aluminum,1.0
+637,Cauterizer,Nuclear material,1.0
+638,Cauterizer,Spring,1.0
+639,Aluminum can,Aluminum,2.0
+640,Empty willow flared vase,Ceramic,2.0
+641,Deathclaw hide,Leather,5.0
+642,Cooking pot,Copper,1.0
+643,Cooking pot,Steel,2.0
+644,Turpentine,Steel,2.0
+645,Turpentine,Antiseptic,2.0
+646,Upper skull,Bone,1.0
+647,Small picture frame,Wood,2.0
+648,Unrusted tin can,Steel,1.0
+649,Unrusted tin can,Aluminum,1.0
+650,Yellow-trimmed plate,Ceramic,2.0
+651,IV bag,Plastic,1.0
+652,Bag of cement,Concrete,5.0
+653,Cotton yarn,Cloth,1.0
+654,Large dinner plate,Ceramic,3.0
+655,Sensor,Aluminum,1.0
+656,Sensor,Nuclear material,1.0
+657,Makeshift battery,Lead,3.0
+658,Makeshift battery,Wood,1.0
+659,Makeshift battery,Acid,3.0
+660,Bloodbug proboscis,Acid,1.0
+661,Jangles the Moon Monkey,Cloth,3.0
+662,Jangles the Moon Monkey,Plastic,1.0
+663,Jangles the Moon Monkey,Fiberglass,1.0
+664,Floral rounded vase,Ceramic,2.0
+665,One ball,Plastic,2.0
+666,Ear examiner,Aluminum,1.0
+667,Ear examiner,Fiber optics,1.0
+668,Ear examiner,Glass,1.0
+669,Baseball glove,Leather,3.0
+670,High-powered microscope,Crystal,2.0
+671,High-powered microscope,Fiber optics,1.0
+672,High-powered microscope,Gears,2.0
+673,High-powered microscope,Glass,2.0
+674,Enamel bucket,Steel,2.0
+675,Cue ball,Plastic,2.0
+676,Yellow plate,Ceramic,2.0
+677,Coffee tin,Aluminum,2.0
+678,Glass flared red vase,Glass,2.0
+679,Radioactive gland,Nuclear material,2.0
+680,Silver fork,Silver,1.0
+681,Flask,Glass,1.0
+682,Large beaker,Glass,1.0
+683,Brahmin skull,Bone,5.0
+684,Toothbrush,Plastic,1.0
+685,Left foot bones,Bone,2.0
+686,Gwinnett pilsner bottle,Glass,2.0
+687,Sauce pan,Steel,2.0
+688,Empty willow barrel vase,Ceramic,2.0
+689,Glass bud teal vase,Glass,2.0
+690,Mini nuke hemisphere core,Nuclear material,1.0
+691,Mini nuke hemisphere core,Steel,2.0
+692,Umbrella stand,Ceramic,2.0
+693,Chessboard,Wood,2.0
+694,Pint glass,Glass,2.0
+695,Small sauce pan lid,Steel,1.0
+696,Combination wrench,Steel,2.0
+697,Torque rod end,Steel,1.0
+698,Tri tool,Aluminum,1.0
+699,Tri tool,Nuclear material,1.0
+700,Military ammo bag,Ballistic fiber,2.0
+701,Comfy pillow,Cloth,3.0
+702,Stogie,Cloth,1.0
+703,Cigar,Cloth,1.0
+704,Kitchen scale,Steel,3.0
+705,Kitchen scale,Spring,3.0
+706,Aluminum canister,Aluminum,2.0
+707,Aluminum canister,Fiberglass,2.0
+708,Aluminum canister,Oil,1.0
+709,Jug,Steel,3.0
+710,New willow rounded vase,Ceramic,2.0
+711,Tube flange,Steel,2.0
+712,Prototype biometric scanner,Fiber optics,1.0
+713,Prototype biometric scanner,Asbestos,1.0
+714,Prototype biometric scanner,Nuclear material,2.0
+715,Plastic pumpkin,Plastic,2.0
+716,Empty coolant,Plastic,1.0
+717,Carlisle typewriter,Gears,6.0
+718,Carlisle typewriter,Screw,4.0
+719,Carlisle typewriter,Spring,5.0
+720,Carlisle typewriter,Aluminum,2.0
+721,Tibia,Bone,2.0
+722,Handcuffs,Screw,1.0
+723,Handcuffs,Spring,1.0
+724,Handcuffs,Steel,2.0
+725,Hubcap,Screw,2.0
+726,Hubcap,Aluminum,2.0
+727,Gold plated flip lighter,Gold,1.0
+728,Gold plated flip lighter,Oil,1.0
+729,Gold plated flip lighter,Steel,1.0
+730,New floral flared vase,Ceramic,2.0
+731,Four ball,Plastic,2.0
+732,Saw,Steel,3.0
+733,Saw,Rubber,1.0
+734,Crystal liquor decanter,Cork,1.0
+735,Crystal liquor decanter,Crystal,4.0
+736,Glass barrel vase,Glass,2.0
+737,Clean globe,Cork,2.0
+738,Clean globe,Plastic,2.0
+739,Clean globe,Screw,1.0
+740,Ruptured HalluciGen gas canister,Steel,1.0
+741,Broken tibia,Bone,2.0
+742,High-powered magnet,Copper,3.0
+743,High-powered magnet,Ceramic,1.0
+744,High-powered magnet,Nuclear material,1.0
+745,Giddyup Buttercup head,Steel,2.0
+746,Giddyup Buttercup head,Spring,2.0
+747,Hairbrush,Plastic,2.0
+748,Box of San Francisco Sunlights,Cloth,3.0
+749,Box of San Francisco Sunlights,Wood,2.0
+750,Undamaged baseball glove,Leather,3.0
+751,Adjustable wrench,Gears,1.0
+752,Adjustable wrench,Steel,2.0
+753,Preserved cigarette pack,Plastic,1.0
+754,Preserved cigarette pack,Cloth,2.0
+755,Preserved cigarette pack,Asbestos,1.0
+756,Magnifying glass,Glass,2.0
+757,Magnifying glass,Copper,1.0
+758,Magnifying glass,Crystal,2.0
+759,Yao guai hide,Leather,4.0
+760,Wonderglue,Adhesive,2.0
+761,Championship bowling pin,Plastic,2.0
+762,Championship bowling pin,Wood,2.0
+763,Glass vaulted red vase,Glass,2.0
+764,Ring stand,Steel,1.0
+765,Ring stand,Aluminum,1.0
+766,Floral barrel vase,Ceramic,2.0
+767,Connecting rod,Steel,2.0
+768,Right foot bones,Bone,2.0
+769,Pack of cigarettes,Plastic,1.0
+770,Pack of cigarettes,Cloth,2.0
+771,Pack of cigarettes,Asbestos,1.0
+772,Left arm bones,Bone,3.0
+773,Clean umbrella stand,Ceramic,2.0
+774,Silver plate,Silver,1.0
+775,Silver pocket watch,Gears,2.0
+776,Silver pocket watch,Silver,2.0
+777,Silver pocket watch,Spring,1.0
+778,Cracked bowl,Ceramic,2.0
+779,Small covered sauce pan,Steel,1.0
