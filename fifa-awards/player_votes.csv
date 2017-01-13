@@ -1,4 +1,4 @@
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+voter_type,country,voter_name,vote_first,vote_second,vote_third
 Captain,Albania,Agolli Ansi,Cristiano Ronaldo,Messi Lionel,Griezmann Antoine
 Captain,American Samoa,Ott Ramin,Neymar,Cristiano Ronaldo,Messi Lionel
 Captain,Andorra,Lima Ildefons,Messi Lionel,Neymar,Cristiano Ronaldo
@@ -31,7 +31,7 @@ Captain,Colombia,Rodriguez James,Cristiano Ronaldo,Modric Luka,Bale Gareth
 Captain,Congo,Oniangue Prince,Cristiano Ronaldo,Neymar,Griezmann Antoine
 Captain,Cook Islands,Jake  Stuart,Cristiano Ronaldo,Messi Lionel,Suárez Luis
 Captain,Costa Rica,Ruiz Bryan,Messi Lionel,Cristiano Ronaldo,Suárez Luis
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Captain,Croatia,Modric Luka,Cristiano Ronaldo,Messi Lionel,Bale Gareth
 Captain,Cuba,Reyes Azcuy Maykel,Cristiano Ronaldo,Messi Lionel,Neymar
 Captain,Curaçao,Martina Rhu-Endly,Messi Lionel,Lewandowski Robert,Özil Mesut
@@ -64,7 +64,7 @@ Captain,Hong Kong,Yapp Hung Fai,Cristiano Ronaldo,Messi Lionel,Griezmann Antoine
 Captain,Hungary,Dzsudzsák Balázs,Cristiano Ronaldo,Messi Lionel,Neymar
 Captain,Iceland,Gunnarsson Aron Einar,Cristiano Ronaldo,Suárez Luis,Griezmann Antoine
 Captain,India,Chhetri Sunil,Cristiano Ronaldo,Messi Lionel,Griezmann Antoine
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Captain,Israel,Zahavi Eran,Cristiano Ronaldo,Messi Lionel,Suárez Luis
 Captain,Italy,Buffon Gianluigi,Messi Lionel,Bale Gareth,Cristiano Ronaldo
 Captain,Jamaica,Blake Andre,Messi Lionel,Cristiano Ronaldo,Suárez Luis
@@ -97,7 +97,7 @@ Captain,Montenegro,Jovetic Stevan,Messi Lionel,Neymar,Cristiano Ronaldo
 Captain,Montserrat,Griffith Anthony,Suárez Luis,Bale Gareth,Griezmann Antoine
 Captain,Morocco,Benatia  Mehdi,Buffon Gianluigi,Cristiano Ronaldo,Neymar
 Captain,Mozambique,Pelembe Elias,Cristiano Ronaldo,Messi Lionel,Agüero Sergio
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Captain,Namibia,Ketjijere Ronald,Messi Lionel,Cristiano Ronaldo,Iniesta Andrés
 Captain,Nepal,Gurung Anil,Cristiano Ronaldo,Neymar,Messi Lionel
 Captain,Netherlands,Robben Arjen,Cristiano Ronaldo,Kroos Toni,Lewandowski Robert
@@ -130,7 +130,7 @@ Captain,Scotland,Fletcher Darren,Cristiano Ronaldo,Suárez Luis,Messi Lionel
 Captain,Senegal,Kouyate Cheikhou,Cristiano Ronaldo,Messi Lionel,Griezmann Antoine
 Captain,Serbia,Branislav  Ivanovic,Cristiano Ronaldo,Messi Lionel,Neymar
 Captain,Singapore,Ishak Shahril,Cristiano Ronaldo,Messi Lionel,Özil Mesut
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Captain,Slovenia,Cesar Boštjan,Cristiano Ronaldo,Griezmann Antoine,Ramos Sergio
 Captain,Somalia,Ali Hassan,Buffon Gianluigi,Iniesta Andrés,Neuer Manuel
 Captain,Spain,Ramos García Sergio,Cristiano Ronaldo,Messi Lionel,Iniesta Andrés
@@ -163,7 +163,7 @@ Coach,American Samoa,Mana'O Larry,Sánchez Alexis,Lewandowski Robert,Neymar
 Coach,Andorra,Alvarez De Eulate Jesus Luís,Messi Lionel,Griezmann Antoine,Bale Gareth
 Coach,Angola,Kilamba José,Messi Lionel,Cristiano Ronaldo,Bale Gareth
 Coach,Antigua and Barbuda,Williams Rolston,Cristiano Ronaldo,Neymar,Pogba Paul
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Coach,Armenia,Petrosyan Artur,Neymar,Cristiano Ronaldo,Messi Lionel
 Coach,Aruba,Coolen Rini,Messi Lionel,Cristiano Ronaldo,Lewandowski Robert
 Coach,Australia,Postecoglou Ange,Cristiano Ronaldo,Griezmann Antoine,Sánchez Alexis
@@ -196,7 +196,7 @@ Coach,Cuba,Mederos Sosa Raul,Messi Lionel,Cristiano Ronaldo,Neymar
 Coach,Curaçao,Bicentini Remko,Messi Lionel,Griezmann Antoine,Suárez Luis
 Coach,Cyprus,Christoforou Christakis,Cristiano Ronaldo,Bale Gareth,Buffon Gianluigi
 Coach,Czech Republic,Jarolím Karel,Messi Lionel,Cristiano Ronaldo,Bale Gareth
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Coach,Djibouti,Ali Affasseh Abdourahman,Messi Lionel,Cristiano Ronaldo,Neymar
 Coach,Dominica,Sabin Ellington,Cristiano Ronaldo,Messi Lionel,Bale Gareth
 Coach,Dominican Republic,Díaz Bernabé Roberto,Messi Lionel,Iniesta Andrés,Griezmann Antoine
@@ -229,7 +229,7 @@ Coach,Iran,Queiroz Carlos,Messi Lionel,Cristiano Ronaldo,Suárez Luis
 Coach,Israel,Levi Elisha,Cristiano Ronaldo,Griezmann Antoine,Messi Lionel
 Coach,Italy,Ventura Giampiero,Buffon Gianluigi,Neuer Manuel,Cristiano Ronaldo
 Coach,Jamaica,Whitmore Theodore,Messi Lionel,Neymar,Vardy Jamie
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Coach,Jordan,Gelling  Stuart,Suárez Luis,De Bruyne Kevin,Vardy Jamie
 Coach,Kazakhstan,Baisufinov Talgat,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
 Coach,Kenya,Okumbi Stanley,Messi Lionel,Cristiano Ronaldo,Griezmann Antoine
@@ -262,7 +262,7 @@ Coach,Myanmar,Zeise Gerd Friedrich Horst,Messi Lionel,Kroos Toni,Lewandowski Rob
 Coach,Namibia,Mannetti Ricardo,Cristiano Ronaldo,Messi Lionel,Griezmann Antoine
 Coach,Nepal,Gyotoku Koji,Messi Lionel,Bale Gareth,Pogba Paul
 Coach,Netherlands,Blind Danny,Cristiano Ronaldo,Kroos Toni,Griezmann Antoine
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Coach,New Zealand,Hudson Anthony,Cristiano Ronaldo,Griezmann Antoine,Payet Dimitri
 Coach,Nigeria,Rohr Gernot,Griezmann Antoine,Messi Lionel,Neuer Manuel
 Coach,Northern Ireland,O'Neill Michael,Cristiano Ronaldo,Messi Lionel,Griezmann Antoine
@@ -295,7 +295,7 @@ Coach,Slovakia,Kozak Jan,Cristiano Ronaldo,Messi Lionel,Bale Gareth
 Coach,Slovenia,Katanec Srečko,Messi Lionel,Cristiano Ronaldo,Bale Gareth
 Coach,Somalia,Abdulle Mohamed,Cristiano Ronaldo,Messi Lionel,Mahrez Riyad
 Coach,Spain,Lopetegui Agote Julen,Messi Lionel,Cristiano Ronaldo,Ramos Sergio
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Coach,St. Kitts and Nevis,Hazel Jeffrey,Messi Lionel,Cristiano Ronaldo,Neuer Manuel
 Coach,Sudan,Magzoub Mohamed Abdalla Ahmed,Cristiano Ronaldo,Messi Lionel,Griezmann Antoine
 Coach,Suriname,Godeken Roberto,Griezmann Antoine,Messi Lionel,Cristiano Ronaldo
@@ -328,7 +328,7 @@ Media,Angola,Quiala Geraldo,Cristiano Ronaldo,Messi Lionel,Neymar
 Media,Antigua and Barbuda,Neto Baptiste,Cristiano Ronaldo,Modric Luka,Messi Lionel
 Media,Argentina,Macaya Márquez Enrique,Messi Lionel,Suárez Luis,Cristiano Ronaldo
 Media,Armenia,Gasparyan Robert,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Media,Australia,Larkin Steve,Messi Lionel,Neymar,Cristiano Ronaldo
 Media,Austria,Prohaska Herbert,Cristiano Ronaldo,Messi Lionel,Bale Gareth
 Media,Bahamas,Smith Randy,Neymar,Cristiano Ronaldo,Agüero Sergio
@@ -361,7 +361,7 @@ Media,England,Rumsby Ben,Cristiano Ronaldo,Messi Lionel,Kanté N'Golo
 Media,Equitorial Guinea,Essiane Fabien,Cristiano Ronaldo,Neymar,Messi Lionel
 Media,Eritrea,Seium Michael,Cristiano Ronaldo,Sánchez Alexis,Mahrez Riyad
 Media,Ethiopia,Abdulkeni Hussen,Cristiano Ronaldo,Griezmann Antoine,Suárez Luis
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Media,Fiji,Singh Indra,Cristiano Ronaldo,Messi Lionel,Özil Mesut
 Media,France,Resseguie Jean,Cristiano Ronaldo,Griezmann Antoine,Messi Lionel
 Media,FYR Macedonia,Durgutov Mijalce,Buffon Gianluigi,Modric Luka,Messi Lionel
@@ -394,7 +394,7 @@ Media,Lithuania,Mindaugas Augustis,Cristiano Ronaldo,Messi Lionel,Bale Gareth
 Media,Luxembourg,Lahure Petz Antoine,Cristiano Ronaldo,Messi Lionel,Suárez Luis
 Media,Macau,Maia Pedro,Cristiano Ronaldo,Griezmann Antoine,Messi Lionel
 Media,Malawi,Kanjere Peter,Messi Lionel,Cristiano Ronaldo,Griezmann Antoine
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Media,Mali,Diakite Boubacar,Cristiano Ronaldo,Lewandowski Robert,Griezmann Antoine
 Media,Malta,Moore Jesmond,Cristiano Ronaldo,Messi Lionel,Suárez Luis
 Media,Mauritania,Brahim Sow,Griezmann Antoine,Cristiano Ronaldo,Mahrez Riyad
@@ -427,7 +427,7 @@ Media,Sierra Leone,Sahr Morris Jr,Cristiano Ronaldo,Griezmann Antoine,Mahrez Riy
 Media,Slovakia,Zeman Michal,Cristiano Ronaldo,Messi Lionel,Griezmann Antoine
 Media,Slovenia,Sabadin Denis,Cristiano Ronaldo,Neuer Manuel,Pogba Paul
 Media,Somalia,Guurre Gamadiid,Messi Lionel,Neymar,Suárez Luis
-"VoteCountryNameFirst (5 points)Second (3 points)Third (1 point)",,,,,
+VoteCountryNameFirst (5 points)Second (3 points)Third (1 point),,,,,
 Media,Spain,Torres Diego,Messi Lionel,Griezmann Antoine,Iniesta Andrés
 Media,St. Lucia,Finisterre Terry,Cristiano Ronaldo,Messi Lionel,Sánchez Alexis
 Media,Sudan,Awadalla Mohammed Al-Khatim,Cristiano Ronaldo,Mahrez Riyad,Griezmann Antoine
